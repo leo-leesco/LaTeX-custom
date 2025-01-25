@@ -4,3 +4,6 @@
 [submodule "tex/latex/polytechnique"]
 	path = tex/latex/polytechnique
 	url = git@gitlab.binets.fr:typographix/polytechnique.git
+[submodule "tex/latex/math"]
+	path = tex/latex/math
+	url = git@github.com:leo-leesco/LaTeX-class-math.git
