@@ -1,0 +1,6 @@
+[submodule "polytechnique"]
+	path = polytechnique
+	url = git@gitlab.binets.fr:typographix/polytechnique.git
+[submodule "tex/latex/polytechnique"]
+	path = tex/latex/polytechnique
+	url = git@gitlab.binets.fr:typographix/polytechnique.git
